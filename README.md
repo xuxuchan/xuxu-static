@@ -1,1 +1,1 @@
-# vscode-xuxu-static
+# xuxu-static
